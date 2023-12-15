@@ -5,12 +5,14 @@ If you'd like to play the game yourself, make sure you have Python installed on 
 https://openai.com/blog/openai-api
 
 Once that's all set up, run 
-```
+
+```bash
 pip install requirements.txt
 ```
 
 then
-```
+
+```bash
 python3 app.py
 ```
 
