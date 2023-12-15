@@ -5,9 +5,13 @@ If you'd like to play the game yourself, make sure you have Python installed on 
 https://openai.com/blog/openai-api
 
 Once that's all set up, run 
-  pip install requirements.txt
+```
+pip install requirements.txt
+```
 
 then
-  python3 app.py
+```
+python3 app.py
+```
 
 and the game will begin!
