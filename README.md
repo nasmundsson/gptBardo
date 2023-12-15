@@ -17,3 +17,6 @@ python3 app.py
 ```
 
 and the game will begin!
+
+Watch me play a demo of the game here:
+https://www.youtube.com/watch?v=0vuJmmSRRRY
